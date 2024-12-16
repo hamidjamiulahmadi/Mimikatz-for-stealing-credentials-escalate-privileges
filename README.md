@@ -11,10 +11,10 @@ In this project i will create a Virus and then i will share it with the victim m
 - <b>Parrot Operating System</b> 
 - <b>Windows 10</b>
 
-<h2>Penetration walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
-Parrot Terminal: <br/>
+Creaing Payload and sharing path: <br/>
 <img src="https://i.imgur.com/nRj3t7D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
