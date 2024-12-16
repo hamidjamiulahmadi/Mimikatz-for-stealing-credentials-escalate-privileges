@@ -18,6 +18,8 @@ In this project i will create a backdoor file and then i will share it with the 
 Creaing backdoor and sharing path: <br/>
 <img src="https://i.imgur.com/nRj3t7D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+ Then with the help of msfconsole I will set the payload to the local port and local host of my computer and send it to the target victim.
 <p align="center">
 Running msfconsole metasploit: <br/>
 <img src="https://i.imgur.com/nwO4W52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
