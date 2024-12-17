@@ -53,7 +53,10 @@ Now I will load the Mimikatz and then I will see what type of option I can run o
  <img src="https://i.imgur.com/HH37VsA.png" height="80%" width="80%" alt="Lab Steps Nr.7"/>
 <br />
 
- 
+ <p align="center">
+As you see, I got all the users' credentials. Then, I will try to do a further search on the target machine and change the admin password of the target machine.: <br/>
+<img src="https://i.imgur.com/HH37VsA.png" height="80%" width="80%" alt="Lab Steps Nr.6"/>
+<br />
 <br />
 
 </p>
