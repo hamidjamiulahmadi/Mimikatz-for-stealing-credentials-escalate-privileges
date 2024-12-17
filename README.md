@@ -16,24 +16,39 @@ In this project i will create a backdoor file and then i will share it with the 
 
 <p align="center">
 Creaing backdoor and sharing path: <br/>
-<img src="https://i.imgur.com/nRj3t7D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nRj3t7D.png" height="80%" width="80%" alt="Lab Steps Nr.1"/>
 <br />
 
  Then with the help of msfconsole I will set the backdoor file to the local port and local host of my computer and send it to the target victim.
 <p align="center">
 Running msfconsole metasploit: <br/>
-<img src="https://i.imgur.com/nwO4W52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nwO4W52.png" height="80%" width="80%" alt="Lab Steps Nr.2"/>
 <br />
 
 
 <p align="center">
 Victim machine got the file: <br/>
-<img src="https://i.imgur.com/b9ILAnK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/b9ILAnK.png" height="80%" width="80%" alt="Lab Steps Nr.3"/>
 <br />
 
 <p align="center">
 now the connection is stablished and i have access to the target machine but as you see at the bottom i have a normal user access previlidge: <br/>
-<img src="https://i.imgur.com/b9ILAnK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DQnlWC0.png" height="80%" width="80%" alt="Lab Steps Nr.4"/>
+<br />
+
+<p align="center">
+now i will bypass the windows UAC protection via the Fodhelper-registry key: <br/>
+<img src="https://i.imgur.com/QZTO7ZY.png" height="80%" width="80%" alt="Lab Steps Nr.5"/>
+<br />
+
+<p align="center">
+here i have bypassed the windows UAC protection and now I got the root user as you see at the bottom.: <br/>
+<img src="https://i.imgur.com/BVtUmv5.png" height="80%" width="80%" alt="Lab Steps Nr.6"/>
+<br />
+
+<p align="center">
+Now I will load the Mimikatz and then I will see what type of option I can run on the target machine to get hushes,first I will try to load the NTML Hash of all users of Windows.: <br/>
+<img src="https://i.imgur.com/ty2Mr06.png" height="80%" width="80%" alt="Lab Steps Nr.7"/>
 <br />
 
  
