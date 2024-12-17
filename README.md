@@ -66,8 +66,8 @@ In the picture above you see i got the NTLM hashes of the Admin user, now i will
 <br />
  <p align="center">
 We can observe that the password has been change and the Admin account has new NTLM credentials, Now we will try on login with new password for the lab testing.: <br/>
-<img src="https://i.imgur.com/FDSxIe9.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
-<img src="https://i.imgur.com/uUYcglp.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
+<img src="https://i.imgur.com/FDSxIe9.png" height="80%" width="80%" alt="Lab Steps Nr.10"/>
+<img src="https://i.imgur.com/uUYcglp.png" height="80%" width="80%" alt="Lab Steps Nr.10"/>
 <br />
 As you see, i have successfully loged in to the victim machine with new password and the lab is completed successfully. 
 <br />
