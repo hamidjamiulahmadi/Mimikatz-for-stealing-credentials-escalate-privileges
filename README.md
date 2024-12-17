@@ -49,6 +49,8 @@ here i have bypassed the windows UAC protection and now I got the root user as y
 <p align="center">
 Now I will load the Mimikatz and then I will see what type of option I can run on the target machine to get hushes,first I will try to load the NTML Hash of all users of Windows.: <br/>
 <img src="https://i.imgur.com/ty2Mr06.png" height="80%" width="80%" alt="Lab Steps Nr.7"/>
+<img src="https://i.imgur.com/e1oLgOM.png" height="80%" width="80%" alt="Lab Steps Nr.7"/>
+ <img src="https://i.imgur.com/HH37VsA.png" height="80%" width="80%" alt="Lab Steps Nr.7"/>
 <br />
 
  
