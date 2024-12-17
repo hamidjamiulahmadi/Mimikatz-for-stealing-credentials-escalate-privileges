@@ -55,8 +55,21 @@ Now I will load the Mimikatz and then I will see what type of option I can run o
 
  <p align="center">
 As you see, I got all the users' credentials. Then, I will try to do a further search on the target machine and change the admin password of the target machine.: <br/>
-<img src="https://i.imgur.com/HH37VsA.png" height="80%" width="80%" alt="Lab Steps Nr.6"/>
+<img src="https://i.imgur.com/HH37VsA.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
 <br />
+
+   <p align="center">
+In the picture above you see i got the NTLM hashes of the Admin user, now i will chage the NTLM of the administrator and set a new password for the admin account.: <br/>
+<img src="https://i.imgur.com/UgPLFn7.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/3Csum3R.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<img src="https://i.imgur.com/Eh8Ik5P.png" height="80%" width="80%" alt="Lab Steps Nr.9"/>
+<br />
+ <p align="center">
+We can observe that the password has been change and the Admin account has new NTLM credentials, Now we will try on login with new password for the lab testing.: <br/>
+<img src="https://i.imgur.com/FDSxIe9.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
+<img src="https://i.imgur.com/uUYcglp.png" height="80%" width="80%" alt="Lab Steps Nr.8"/>
+<br />
+As you see, i have successfully loged in to the victim machine with new password and the lab is completed successfully. 
 <br />
 
 </p>
