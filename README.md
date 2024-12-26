@@ -69,7 +69,7 @@ Steps Nr.10: We can observe that the password has been change and the Admin acco
 <img src="https://i.imgur.com/FDSxIe9.png" height="80%" width="80%" alt="Lab Steps Nr.10"/>
 <img src="https://i.imgur.com/uUYcglp.png" height="80%" width="80%" alt="Lab Steps Nr.10"/>
 <br />
-As you see, i have successfully loged in to the victim machine with new password and the lab is completed successfully. 
+Accomplishment: As you see, i have successfully loged in to the victim machine with new password and the lab is completed successfully. 
 <br />
 
 </p>
